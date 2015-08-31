@@ -6,3 +6,4 @@ peach
 plum
 kiwi
 date
+melon
